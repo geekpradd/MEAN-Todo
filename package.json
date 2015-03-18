@@ -1,0 +1,15 @@
+{
+  "name": "To-Do",
+  "version": "0.0.1",
+  "description": "A Simple todo application built on MEAN",
+  "main": "server.js",
+  "author": "Pradd",
+  "dependencies": {
+    "express": "~4.7.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2",
+    "body-parser": "~1.5.2",
+    "method-override": "~2.1.2",
+    "connect-assets": "~4.6.0"
+  }
+}
